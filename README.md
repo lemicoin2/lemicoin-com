@@ -9,4 +9,4 @@ Lemicoin [LEMI, Ł]
 
 <p align="center">Follow <a href="https://x.com/lemicoin">@lemicoin</a> and <a href="https://x.com/lemitoshi">@lemitoshi</a> on X for updates.</p>
 
-<p align="center">Download the Lemicoin Core Wallet for <a href="https://lemicoin.com/wallets/lemicoin-qt-windows.zip">Windows</a> or <a href="https://lemicoin.com/wallets/lemicoin-qt.dmg">macOS</a>, join Chillers on <a href="https://discord.lemicoin.com">Discord</a> and claim free $LEMI to begin staking today!</p>
+<p align="center">Download the Lemicoin Core Wallet for <a href="https://lemicoin.com/wallets/lemicoin-qt-windows.zip">Windows</a> or <a href="https://lemicoin.com/wallets/lemicoin-qt.dmg">macOS</a>, join Chillers on <a href="https://discord.lemicoin.com">Discord</a> and claim free Lemicoins to begin staking today!</p>
