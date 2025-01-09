@@ -1,14 +1,13 @@
 # lemicoin-com
-
-<meta http-equiv="refresh" content="5; url=https://explorer.lemicoin.com/" />
-
-<h1 align="center">
+<div align="center">
+<h1>
 <img src="https://explorer.lemicoin.com/img/logo.png" alt="Lemicoin" width="256"/>
 <br/><br/>
 Lemicoin [LEMI, Ł]  
 </h1>
 
 # Source code and the website release in March
-<b>Get early access on [Discord](https://discord.lemicoin.com)</b>
+<b>Follow [@lemitoshi](https://x.com/lemitoshi) and [@lemicoin](https://x.com/lemicoin) on X for updates.
 
-you'll be redirected now to block explorer...
+<b>Download the Lemicoin Core Wallet for [Windows](https://lemicoin.com/wallets/lemicoin-qt-windows.zip) or [macOS](https://lemicoin.com/wallets/lemicoin-qt.dmg).<br>Join Chillers on [Discord](https://discord.lemicoin.com) and claim free $LEMI to begin staking today!</b>
+</div>
