@@ -1,12 +1,13 @@
 # lemicoin-com
-
-<h1 align="center">
+<div align="center">
+<h1>
 <img src="https://explorer.lemicoin.com/img/logo.png" alt="Lemicoin" width="256"/>
 <br/><br/>
 Lemicoin [LEMI, Ł]  
 </h1>
 
-# Source code and the website release in March
-<b>Follow [@lemitoshi](https://x.com/lemitoshi) and [@lemicoin](https://x.com/lemicoin) on X for updates.
+<h2>Source code and the website release in March</h2>
+<p><b>Follow <a href="https://x.com/lemitoshi">@lemitoshi</a> and <a href="https://x.com/lemicoin">@lemicoin</a> on X for updates.</p>
 
-<b>Download the Lemicoin Core Wallet for [Windows](https://lemicoin.com/wallets/lemicoin-qt-windows.zip) or [macOS](https://lemicoin.com/wallets/lemicoin-qt.dmg), join Chillers on [Discord](https://discord.lemicoin.com) and claim free $LEMI to begin staking today!</b>
+<p><b>Download the Lemicoin Core Wallet for <a href="https://lemicoin.com/wallets/lemicoin-qt-windows.zip">Windows</a> or <a href="https://lemicoin.com/wallets/lemicoin-qt.dmg">macOS</a>, join Chillers on <a href="https://discord.lemicoin.com">Discord</a> and claim free $LEMI to begin staking today!</b></p>
+</div>
