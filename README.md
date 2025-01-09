@@ -5,7 +5,7 @@
 <h1 align="center">
 <img src="https://explorer.lemicoin.com/img/logo.png" alt="Lemicoin" width="256"/>
 <br/><br/>
-Lemicoin[LEMI, Ł]  
+Lemicoin [LEMI, Ł]  
 </h1>
 
 # Source code and the website release in March
